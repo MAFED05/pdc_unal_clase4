@@ -429,4 +429,4 @@ En este <a href="https://www.youtube.com/watch?v=9iH8mY3iGLk&ab_channel=ApuntesC
 
 -----------
 ## Reto no. 3
-A partir del algoritmo de identificación de los divisores plantear la serie de pasos para determinar los números primos hasta un natural n. Traeerlo para la clase no. 5 escrito (después de la clase subirlo al canal que se creará en slack para ello).
+A partir del algoritmo de identificación de los divisores plantear la serie de pasos para determinar los números primos hasta un natural n. Traerlo para la clase no. 5 escrito (después de la clase subirlo al canal que se creará en slack para ello).
