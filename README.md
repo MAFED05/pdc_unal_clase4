@@ -2,7 +2,7 @@
 ## Problemas y algoritmos
 
 ## Problemas
-<details><summary>Preparense para...</summary><p>
+<details><summary>Prepárense para...</summary><p>
 <div align='center'>
 <figure> <img src="https://i.postimg.cc/g2VtQD9p/image.png" alt="" width="400" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
@@ -40,7 +40,7 @@ Cuál es el objetivo entonces:
 puede encontrar) para la entrada dada.
   + **Computable:** Son problemas para los cuales existe una secuencia finita de pasos "bien definidos" que permiten describir la relación entre entrada y salida, y que al ser aplicados a la entrada terminan en algún momento produciendo la salida.
   + **Tratable:** Son problemas para los cuales los recursos (tiempo y espacio) que se necesitan para su solución son finitos y no crecen exponencialmente a medida que aumenta el tamaño de la entrada.
-  + **Algoritmico:** Cuando un problema es computable , tratable y bien condicionado se denomina *algorítmico*.
+  + **Algorítmico:** Cuando un problema es computable , tratable y bien condicionado se denomina *algorítmico*.
 + **Indecidible:** Son problemas en los que no se sabe si existe una solución "computable" o "tratable". Este tipo de problemas no son el objeto del curso.
 
 Tenemos algunos casos interesantes:
@@ -113,7 +113,7 @@ granjero? (Asuma que solo hay gansos y conejos)
 <table cellspacing="3" bgcolor="">
 	<tr bgcolor="#">
 		<th><b>Elementos conocidos</b></th>
-    <th>La cantidad total de animales (50), cantidad de patas totales (150), número de patas de los gansos y número de patas de los conejos.</th>
+    <th>La cantidad total de animales (50), cantidad de patas totales (140), número de patas de los gansos y número de patas de los conejos.</th>
 	</tr>
 	<tr bgcolor="#">
 		<th><b>Elementos desconocidos</b></th>
@@ -125,7 +125,7 @@ granjero? (Asuma que solo hay gansos y conejos)
 	</tr>
   <tr bgcolor="#">
 		<th><b>Tipo de problema</b></th>
-    <th>Solucionable - Algoritmico - Bien condicionado<br>
+    <th>Solucionable - Algorítmico - Bien condicionado<br>
     <details><summary>Solución:</summary><p>Conejos: 20, Gansos:30</p></details></th>
 	</tr>
 </table>
@@ -174,7 +174,7 @@ un número natural n dado?
 	</tr>
   <tr bgcolor="#">
 		<th><b>Tipo de problema</b></th>
-    <th>Solucionable - Algoritmico.<br>
+    <th>Solucionable - Algorítmico.<br>
     <details><summary>Solución:</summary><p>Qué dijeron...navidad?</p></details></th> </th>
 	</tr>
 </table>
@@ -199,7 +199,7 @@ un número natural n dado?
   <tr bgcolor="#">
 		<th><b>Tipo de problema</b></th>
     <th>No solucionable - Indecidible.<br>
-    No se puede solucionar por que no existe forma de predecir la posición de la partícula, pues su movimiento es aleatorio, es decir, se mueve de manera arbitraria.</th>
+    No se puede solucionar porque no existe forma de predecir la posición de la partícula, pues su movimiento es aleatorio, es decir, se mueve de manera arbitraria.</th>
 	</tr>
 </table>
 </p></details><br>
@@ -228,7 +228,7 @@ apilamiento.</th>
 	</tr>
   <tr bgcolor="#">
 		<th><b>Tipo de problema</b></th>
-    <th>Solucionable - Algoritmico.<br>
+    <th>Solucionable - Algorítmico.<br>
     Lápiz y papel para escribir los pasos de la solución.</th>
 	</tr>
 </table>
@@ -246,7 +246,7 @@ Antes de comenzar un retoooooo!
 </div>
 </p></details><br>
 
-<details><summary>Albegra de Baldor</summary><p>
+<details><summary>Álgebra de Baldor</summary><p>
 <div align='center'>
 <figure> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Baldor.jpg" alt="" width="400" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
@@ -266,7 +266,7 @@ w'almugabala, usó en gran medida la noción de lo que se conoce hoy como algori
 		<th><b>Definición</b></th>
 	</tr>
 	<tr bgcolor="#e4e4ed">
-		<td style="color:#141414">Un ALGORITMO es una secuencia finita "bien definida" de tareas "bien definidas", cada una de lascuales se puede realizar con una cantidad finita de recursos. .</td>
+		<td style="color:#141414">Un ALGORITMO es una secuencia finita "bien definida" de tareas "bien definidas", cada una de las cuales se puede realizar con una cantidad finita de recursos. .</td>
 	</tr>
 </table>
 
@@ -279,7 +279,7 @@ Se dice que una tarea esta "bien definida", si se <i>saben de manera precisa las
 <b>EJECUTAR</b> un algoritmo consiste en realizar las tareas o instrucciones que lo conforman, en el orden especificado y utilizando los recursos disponibles. <i>Hoy se cuenta con máquinas que realizan esta labor, pero se requiere que los algoritmos que ejecutan se escriban en un lenguaje especial, usar esos lenguajes especiales para especificar algoritmos se llama programación de computadores</i>.
 </p>
 
-### Carateristicas de un algoritmo
+### Caraterísticas de un algoritmo
  + **Precisión:** Hay un orden preciso en el cual deben ejecutarse las tareas que conforman el algoritmo.
  + **Determinismo:** Todas las veces que se realicen las tareas o pasos de un
 algoritmo, con las mismas condiciones iniciales, se deben obtener resultados idénticos.
